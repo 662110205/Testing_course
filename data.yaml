@@ -1,0 +1,18 @@
+username:
+  standard: 
+    user: standard_user
+    password: secret_sauce
+  problem: 
+    user: problem_user
+    password: secret_sauce
+  perf:
+    user: performance_performance_glitch_user
+    password: secret_sauce
+
+# standard : standard_user
+# problem  : problem_user
+# performance : performance_glitch_user
+
+# password: secret_sauce
+url: https://www.saucedemo.com/v1/index.html
+browser: chrome
